@@ -50,7 +50,6 @@ Customer_Segmentation/
 ├── notebooks/        # Python notebooks (EDA & RFM calculations)
 ├── dashboard/        # Power BI or Streamlit dashboard files
 ├── outputs/          # Processed CSVs / model exports
-├── slides/           # Presentation slides for business stakeholders
 └── images/           # Screenshots or plots for README/docs
 ```
 
