@@ -89,5 +89,5 @@ Customer_Segmentation/
 Hans Christian  
 Bandung, Indonesia  
 Marketing Designer & Aspiring Data Scientist  
-Email: your_email_here  
-LinkedIn: your_linkedin_profile_here
+Email: hans.dsda771@gmail.com  
+LinkedIn: https://www.linkedin.com/in/hanschristian771/
